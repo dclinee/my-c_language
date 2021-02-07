@@ -1,3 +1,4 @@
+// The first C language program.
 #include <stdio.h>
 
 int main(void)
