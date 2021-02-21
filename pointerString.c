@@ -13,6 +13,7 @@ int main(void)
 	while(*ptr != '\0')
 	{
 		printf("%c\n", *ptr);
+		// move the ptr pointer to the next memory location
 		ptr++;
 	}
 	return 0;
